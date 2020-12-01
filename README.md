@@ -1,1 +1,1 @@
-# trello-clone-react-redux
+# Trello clone using React and Redux
